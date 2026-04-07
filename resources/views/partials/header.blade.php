@@ -18,19 +18,19 @@
                 <div class="flex items-center">
                     <a href="#" class="relative group">
                         <div class="absolute -inset-1 bg-[#facc15] rounded-full blur-sm opacity-20 group-hover:opacity-40 transition"></div>
-                        <img class="h-14 w-14 object-contain relative" src="https://agarwal-eventor.fillipsoftware.com/assets/images/logo.png" alt="Logo">
+                        <img class="h-14 w-14 object-contain relative" src="./image/AGRAWAL.png" alt="Logo">
                     </a>
                 </div>
 
                 <div class="hidden lg:flex items-center space-x-10">
-                    <a href="#" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Home</a>
-                    <a href="#" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">About</a>
-                    <a href="#" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Gallery</a>
-                    <a href="#" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Contact</a>
+                    <a href="" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Home</a>
+                    <a href="about" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">About</a>
+                    <a href="gallery" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Gallery</a>
+                    <a href="contact" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Contact</a>
                 </div>
 
                 <div class="hidden md:block">
-                    <a href="#" class="bg-[#0b3d3d] text-white px-8 py-3 rounded-full font-semibold text-sm shadow-lg hover:shadow-[#0b3d3d]/30 hover:scale-105 transition-all duration-300">
+                    <a href="./form" class="bg-[#0b3d3d] text-white px-8 py-3 rounded-full font-semibold text-sm shadow-lg hover:shadow-[#0b3d3d]/30 hover:scale-105 transition-all duration-300">
                         Book Event
                     </a>
                 </div>

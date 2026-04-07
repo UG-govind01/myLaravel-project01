@@ -5,10 +5,10 @@
 </head>
 <body>
 
-    @include('partials.header') 
 
-    @yield('content') 
-
+@extends('layouts.app')
+    
+@section('content')
 
 
  <div class="wedding">
@@ -139,7 +139,7 @@
 
           </div>
  </div>
-    @include('partials.footer')
+    @endsection
 
 </body>
 </html>
