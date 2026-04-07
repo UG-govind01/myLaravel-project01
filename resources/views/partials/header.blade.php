@@ -23,10 +23,10 @@
                 </div>
 
                 <div class="hidden lg:flex items-center space-x-10">
-                    <a href="" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Home</a>
+                    <a href="{{ route('home') }}" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Home</a>
                     <a href="about" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">About</a>
                     <a href="gallery" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Gallery</a>
-                    <a href="contact" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Contact</a>
+                    <a href="./form" class="text-gray-800 hover:text-[#064e3b] font-medium text-[15px] transition-all relative after:content-[''] after:absolute after:-bottom-1 after:left-0 after:w-0 after:h-0.5 after:bg-[#facc15] hover:after:w-full after:transition-all">Contact</a>
                 </div>
 
                 <div class="hidden md:block">
