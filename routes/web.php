@@ -11,12 +11,16 @@ Route::get('/', function () {
 Route::get('/form', [FormController::class, 'index']);
 Route::post('/form-submit', [FormController::class, 'store']);
 
-Route::get('/contact', function () {
-    return view('contact');
+
+
+Route::get('/about', function () {
+        return view('about');
+
 });
 
+Route::get('/gallery', function () {
+    return view('gallery');
 
-
-
+});
 
  
