@@ -89,7 +89,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
-                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Birthday Setup</h2>
+                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">wedding Decoration  </h2>
                 <div class="mt-2 w-8 h-1 bg-cyan-500 mx-auto rounded-full scale-0 group-hover:scale-100 transition-transform duration-500"></div>
             </div>
         </div>
@@ -100,7 +100,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
-                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Birthday Setup</h2>
+                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Haldi ceromony</h2>
                 <div class="mt-2 w-8 h-1 bg-cyan-500 mx-auto rounded-full scale-0 group-hover:scale-100 transition-transform duration-500"></div>
             </div>
         </div>
@@ -111,7 +111,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
-                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Baby Welcome</h2>
+                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">mehdi ceromony</h2>
                 <div class="mt-2 w-8 h-1 bg-cyan-500 mx-auto rounded-full scale-0 group-hover:scale-100 transition-transform duration-500"></div>
             </div>
         </div>
@@ -121,7 +121,7 @@
                 <img src="{{ asset('image/BirTwo.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
             </div>
             <div class="p-4 text-center">
-                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Ring Ceremony</h2>
+                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Reception setup</h2>
                 <div class="mt-2 w-8 h-1 bg-cyan-500 mx-auto rounded-full scale-0 group-hover:scale-100 transition-transform duration-500"></div>
             </div>
          </div>
@@ -132,7 +132,7 @@
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
-                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Anniversary Setup</h2>
+                <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Sangit night</h2>
                 <div class="mt-2 w-8 h-1 bg-cyan-500 mx-auto rounded-full scale-0 group-hover:scale-100 transition-transform duration-500"></div>
             </div>
           </div>
