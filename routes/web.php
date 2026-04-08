@@ -11,6 +11,9 @@ Route::get('/', function () {
 Route::get('/form', [FormController::class, 'index']);
 Route::post('/form-submit', [FormController::class, 'store']);
 
+Route::get('/contact', function () {
+    return view('contact');
+});
 
 
 
