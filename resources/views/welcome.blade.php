@@ -42,7 +42,7 @@
         playsinline 
         class="absolute inset-0 w-full h-full object-cover opacity-60"
     >
-        <source src="{{ asset('image/wedding01.mp4') }}" type="video/mp4">
+        <source src="{{ asset('video/wedding01.mp4') }}" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 
@@ -138,16 +138,19 @@
                 </div>
             </div>
 
-            <div class="relative group">
-                <div class="absolute -top-6 -right-6 bottom-6 -left-6 border-2 border-brand-yellow rounded-[2rem] -z-0 transition-transform group-hover:scale-105"></div>
-                
-                <div class="relative z-10 shadow-2xl rounded-[1.5rem] overflow-hidden">
-                    <img 
-                        src="{{ asset('image/home image.webp') }}" 
-                        alt="Luxury Event Decoration" 
-                        class="w-full h-auto block transition-transform duration-700 group-hover:scale-110"
-                    />
-                </div>
+           <div class="relative group max-w-5xl mx-auto my-20">
+    
+    <div class="absolute -top-8 -right-8 -bottom-8 -left-8 border-[3px] border-yellow-400 rounded-[2.5rem] -z-0 transition-transform duration-500 group-hover:scale-105"></div>
+    
+    <div class="relative z-10 shadow-[0_35px_60px_-15px_rgba(0,0,0,0.3)] rounded-[2rem] overflow-hidden">
+        <img 
+            src="{{ asset('image/home/welcomehome.jpg') }}" 
+            alt="Luxury Event Decoration" 
+            class="w-full h-full object-cover block transition-transform duration-1000 group-hover:scale-110"
+        />
+    </div>
+    
+</div>
             </div>
 
         </div>
@@ -213,14 +216,14 @@
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             <!-- Images -->
-            <img src="https://images.unsplash.com/photo-1519710164239-da123dc03ef4" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1527529482837-4698179dc6ce" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1530103862676-de8c9debad1d" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1504198458649-3128b932f49b" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/birthday01.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/birthday02.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/birthday03.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/birthday04.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
         </div>
     </div>
 
-    <!-- 🔥 CATEGORY 2 -->
+    <!-- 🔥 CATEGORY 2 -->  
     <div class="mb-12">
         <div class="flex justify-between items-center mb-6">
             <h2 class="text-2xl font-semibold text-teal-800">Baby Shower Decorations</h2>
@@ -230,10 +233,10 @@
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <img src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1464349153735-7db50ed83c84" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1505238680356-667803448bb6" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1520857014576-2c4f4c972b57" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/baby01.webp" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/baby02.webp" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/baby03.webp" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/baby04.webp" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
         </div>
     </div>
 
@@ -247,10 +250,10 @@
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <img src="https://images.unsplash.com/photo-1519741497674-611481863552" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1507504031003-b417219a0fde" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1522673607200-164d1b6ce486" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1511285560929-80b456fea0bc" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/ringC01.jpg" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/ringC02.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/ringC03.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/ringC04.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
         </div>
     </div>
 
@@ -264,10 +267,10 @@
         </div>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            <img src="https://images.unsplash.com/photo-1519225421980-715cb0215aed" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1529634892464-1a6c9e4e6b61" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1532635241-17e820acc59f" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
-            <img src="https://images.unsplash.com/photo-1521337581100-8ca9a73a5f9b" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/wedding01.webp" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/wedding02.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/wedding03.avif" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
+            <img src="./image/home/wedding04.jpg" class="h-64 w-full object-cover rounded-lg hover:scale-110 transition">
         </div>
     </div>
 

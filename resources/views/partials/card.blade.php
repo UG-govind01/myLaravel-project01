@@ -23,7 +23,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirOne.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/BirOne.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -34,7 +34,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/Kids-setup.webp') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/Kids-setup.webp') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -45,7 +45,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirOne.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/babywelcome.webp') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -56,7 +56,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirOne.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/ring-ceremony.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -67,7 +67,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirOne.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/anniversary.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -78,7 +78,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirTwo.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/wedding02.avif') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -89,7 +89,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirTwo.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/haldi01.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -100,7 +100,7 @@
 
         <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirTwo.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/mehandi01.webp') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
@@ -111,7 +111,8 @@
 
           <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirTwo.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/reception02.avif') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
                 <h2 class="font-bold text-gray-800 group-hover:text-cyan-600 transition-colors">Reception setup</h2>
@@ -121,7 +122,7 @@
 
          <div class="group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100">
             <div class="relative overflow-hidden">
-                <img src="{{ asset('image/BirTwo.jpg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
+                <img src="{{ asset('image/card/sanit01.jpeg') }}" class="w-full h-44 object-cover transition-transform duration-700 group-hover:scale-110">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div class="p-4 text-center">
