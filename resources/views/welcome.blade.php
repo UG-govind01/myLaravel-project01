@@ -276,7 +276,9 @@
 
 </div>
 </section>
+@include('partials.wlc')    
 <div class="space-y-10">
+    <h1 class="text-center text-4xl font-bold">Tell Us About Your Event</h1>
 @include('partials.contact')
 </div>
 <div class="w-full py-10 bg-white text-center border-t border-gray-100">
