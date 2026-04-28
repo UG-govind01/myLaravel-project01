@@ -6,6 +6,7 @@
   <title>Agarwal Eventor | Client Reviews</title>
   
   <script src="https://cdn.tailwindcss.com"></script>
+  
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
@@ -44,7 +45,7 @@
                   “The decoration and planning were absolutely perfect. Everything was delivered beyond expectations.”
                 </p>
                 <div>
-                  <h4 class="text-xl font-bold text-gray-900">Anjali Sharma</h4>
+                  <h4 class="text-xl font-bold text-gray-900">Govind upadhyay</h4>
                   <p class="text-gray-400 text-sm">Wedding Event · Patna</p>
                 </div>
               </div>
@@ -56,7 +57,7 @@
                   “Very professional team. They understood our requirements and executed the event flawlessly.”
                 </p>
                 <div>
-                  <h4 class="text-xl font-bold text-gray-900">Rohit Verma</h4>
+                  <h4 class="text-xl font-bold text-gray-900">mohit kumar</h4>
                   <p class="text-gray-400 text-sm">Corporate Event</p>
                 </div>
               </div>
@@ -68,7 +69,7 @@
                   “Highly recommended! The team was supportive, creative, and extremely responsive.”
                 </p>
                 <div>
-                  <h4 class="text-xl font-bold text-gray-900">Neha Gupta</h4>
+                  <h4 class="text-xl font-bold text-gray-900">suyash choudhari</h4>
                   <p class="text-gray-400 text-sm">Birthday Celebration</p>
                 </div>
               </div>
